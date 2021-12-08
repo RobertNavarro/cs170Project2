@@ -1,0 +1,61 @@
+('The best accuracy was', 0.948)
+('The best features were', array([7., 9.]))
+(0.021440200010935464, 'minutes to run algorithm on', 'Ver_2_CS170_Fall_2021_Small_data__61.txt', 'using forward selection')
+------------------------------------------------------------------------------------------------------------------------------
+
+('The best accuracy was', 0.976)
+('The best features were', array([3., 2.]))
+(0.02160296042760213, 'minutes to run algorithm on', 'Ver_2_CS170_Fall_2021_Small_data__86.txt', 'using forward selection')
+------------------------------------------------------------------------------------------------------------------------------
+
+('The best accuracy was', 0.958)
+('The best features were', array([10.,  4.]))
+(0.021675217151641845, 'minutes to run algorithm on', 'Ver_2_CS170_Fall_2021_Small_data__32.txt', 'using forward selection')
+------------------------------------------------------------------------------------------------------------------------------
+
+('The best accuracy was', 0.948)
+('The best features were', array([7, 9]))
+(0.02692448298136393, 'minutes to run algorithm on', 'Ver_2_CS170_Fall_2021_Small_data__61.txt', 'using backward elimination')
+------------------------------------------------------------------------------------------------------------------------------
+
+('The best accuracy was', 0.976)
+('The best features were', array([2, 3]))
+(0.0266742467880249, 'minutes to run algorithm on', 'Ver_2_CS170_Fall_2021_Small_data__86.txt', 'using backward elimination')
+------------------------------------------------------------------------------------------------------------------------------
+
+('The best accuracy was', 0.958)
+('The best features were', array([ 4, 10]))
+(0.026716840267181397, 'minutes to run algorithm on', 'Ver_2_CS170_Fall_2021_Small_data__32.txt', 'using backward elimination')
+------------------------------------------------------------------------------------------------------------------------------
+
+('The best accuracy was', 0.971)
+('The best features were', array([44., 39.]))
+(0.627173662185669, 'minutes to run algorithm on', 'Ver_2_CS170_Fall_2021_LARGE_data__22.txt', 'using forward selection')
+------------------------------------------------------------------------------------------------------------------------------
+
+('The best accuracy was', 0.9785)
+('The best features were', array([26., 31.]))
+(0.6468382676442465, 'minutes to run algorithm on', 'Ver_2_CS170_Fall_2021_LARGE_data__27.txt', 'using forward selection')
+------------------------------------------------------------------------------------------------------------------------------
+
+('The best accuracy was', 0.9725)
+('The best features were', array([24., 49.]))
+(0.6483896017074585, 'minutes to run algorithm on', 'Ver_2_CS170_Fall_2021_LARGE_data__44.txt', 'using forward selection')
+------------------------------------------------------------------------------------------------------------------------------
+
+('The best accuracy was', 0.8365)
+('The best features were', array([], dtype=int32))
+(0.6271958708763122, 'minutes to run algorithm on', 'Ver_2_CS170_Fall_2021_LARGE_data__22.txt', 'using backward elimination')
+------------------------------------------------------------------------------------------------------------------------------
+
+('The best accuracy was', 0.8475)
+('The best features were', array([], dtype=int32))
+(0.6337121486663818, 'minutes to run algorithm on', 'Ver_2_CS170_Fall_2021_LARGE_data__27.txt', 'using backward elimination')
+------------------------------------------------------------------------------------------------------------------------------
+
+('The best accuracy was', 0.806)
+('The best features were', array([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 18, 27, 28, 30,
+       31, 32, 35, 37, 38, 40, 42, 45, 46, 48, 50]))
+(0.708468488852183, 'minutes to run algorithm on', 'Ver_2_CS170_Fall_2021_LARGE_data__44.txt', 'using backward elimination')
+------------------------------------------------------------------------------------------------------------------------------
+
